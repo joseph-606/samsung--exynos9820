@@ -59,6 +59,7 @@ jobs:
                        toolchain=$TOOLCHAIN      \
                        +magisk                   \
                        +nohardening              \
+                       +kali                     \
                        +ttl                      \
                        +wireguard                \
                        +cifs                     \
